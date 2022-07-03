@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+mlx_piano
+.vscode
+*vgcore
+main.c
