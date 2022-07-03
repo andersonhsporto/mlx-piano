@@ -1,5 +1,4 @@
 # mlx-piano
-A simple piano made with C, miniaudio and minilibx
 
 ### Simples piano utilizando a biblioteca [MinilibX](https://github.com/42Paris/minilibx-linux).
 <hr>
