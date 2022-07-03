@@ -8,7 +8,7 @@
 #include <stdbool.h>
 #include "miniaudio.h"
 
-#define WIDTH 600
+#define WIDTH 447
 #define HEIGHT 600
 
 typedef struct s_img
