@@ -24,6 +24,6 @@ $ ./mlx_piano
 
 
 ## REFERÊNCIAS
-* Informação Adicional - [Harm Smits - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) 
-* Informação Adicional - [MiniLibX](https://github.com/42Paris/minilibx-linux) 
-* Informação Adicional - [Miniaudio](https://miniaud.io/index.html) 
+* Informações Adicionais - [Harm Smits - MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx) 
+* Informações Adicionais - [MiniLibX](https://github.com/42Paris/minilibx-linux) 
+* Informações Adicionais - [Miniaudio](https://miniaud.io/index.html) 
