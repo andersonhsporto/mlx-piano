@@ -1,0 +1,5 @@
+# Ignore miniaudio.h stats in includes directory
+include/miniaudio.h linguist-generated
+
+# Ignore miniaudio.c stats in src directory
+src/miniaudio.c linguist-generated
